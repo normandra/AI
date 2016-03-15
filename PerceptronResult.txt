@@ -1,0 +1,2052 @@
+Current weights
+Sides: 0.0
+Umfang weight: 0.0
+Bias: 0.0
+Number of sides: 4
+Umfang: 99
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.0
+Umfang weight: 0.0
+Bias: 0.0
+Number of sides: 3
+Umfang: 65
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.1
+Umfang weight: 6.5
+Bias: 0.1
+Number of sides: 3
+Umfang: 39
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.1
+Umfang weight: 6.5
+Bias: 0.1
+Number of sides: 4
+Umfang: 80
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.1
+Umfang weight: -1.5
+Bias: 0.0
+Number of sides: 4
+Umfang: 33
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.1
+Umfang weight: -1.5
+Bias: 0.0
+Number of sides: 3
+Umfang: 62
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.2
+Umfang weight: 4.7
+Bias: 0.1
+Number of sides: 4
+Umfang: 80
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.2
+Umfang weight: -3.3
+Bias: 0.0
+Number of sides: 4
+Umfang: 64
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.2
+Umfang weight: -3.3
+Bias: 0.0
+Number of sides: 4
+Umfang: 67
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.2
+Umfang weight: -3.3
+Bias: 0.0
+Number of sides: 4
+Umfang: 32
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.2
+Umfang weight: -3.3
+Bias: 0.0
+Number of sides: 3
+Umfang: 98
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.30000000000000004
+Umfang weight: 6.500000000000001
+Bias: 0.1
+Number of sides: 3
+Umfang: 100
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.30000000000000004
+Umfang weight: 6.500000000000001
+Bias: 0.1
+Number of sides: 3
+Umfang: 68
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.30000000000000004
+Umfang weight: 6.500000000000001
+Bias: 0.1
+Number of sides: 4
+Umfang: 99
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.30000000000000004
+Umfang weight: -3.3999999999999995
+Bias: 0.0
+Number of sides: 4
+Umfang: 95
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.30000000000000004
+Umfang weight: -3.3999999999999995
+Bias: 0.0
+Number of sides: 3
+Umfang: 96
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.4
+Umfang weight: 6.200000000000002
+Bias: 0.1
+Number of sides: 3
+Umfang: 49
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.4
+Umfang weight: 6.200000000000002
+Bias: 0.1
+Number of sides: 3
+Umfang: 44
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.4
+Umfang weight: 6.200000000000002
+Bias: 0.1
+Number of sides: 4
+Umfang: 100
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.4
+Umfang weight: -3.799999999999998
+Bias: 0.0
+Number of sides: 4
+Umfang: 96
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.4
+Umfang weight: -3.799999999999998
+Bias: 0.0
+Number of sides: 4
+Umfang: 59
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.4
+Umfang weight: -3.799999999999998
+Bias: 0.0
+Number of sides: 4
+Umfang: 66
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.4
+Umfang weight: -3.799999999999998
+Bias: 0.0
+Number of sides: 4
+Umfang: 83
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.4
+Umfang weight: -3.799999999999998
+Bias: 0.0
+Number of sides: 3
+Umfang: 66
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.5
+Umfang weight: 2.8000000000000025
+Bias: 0.1
+Number of sides: 4
+Umfang: 34
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.5
+Umfang weight: -0.5999999999999979
+Bias: 0.0
+Number of sides: 3
+Umfang: 31
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.6
+Umfang weight: 2.500000000000002
+Bias: 0.1
+Number of sides: 3
+Umfang: 39
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.6
+Umfang weight: 2.500000000000002
+Bias: 0.1
+Number of sides: 3
+Umfang: 76
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.6
+Umfang weight: 2.500000000000002
+Bias: 0.1
+Number of sides: 4
+Umfang: 30
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.6
+Umfang weight: -0.4999999999999978
+Bias: 0.0
+Number of sides: 4
+Umfang: 69
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.6
+Umfang weight: -0.4999999999999978
+Bias: 0.0
+Number of sides: 3
+Umfang: 34
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.7
+Umfang weight: 2.9000000000000026
+Bias: 0.1
+Number of sides: 3
+Umfang: 93
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.7
+Umfang weight: 2.9000000000000026
+Bias: 0.1
+Number of sides: 4
+Umfang: 41
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.7
+Umfang weight: -1.199999999999998
+Bias: 0.0
+Number of sides: 3
+Umfang: 93
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.7999999999999999
+Umfang weight: 8.100000000000003
+Bias: 0.1
+Number of sides: 4
+Umfang: 61
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.7999999999999999
+Umfang weight: 2.0000000000000027
+Bias: 0.0
+Number of sides: 3
+Umfang: 44
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.7999999999999999
+Umfang weight: 2.0000000000000027
+Bias: 0.0
+Number of sides: 4
+Umfang: 64
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.7999999999999999
+Umfang weight: -4.399999999999998
+Bias: -0.1
+Number of sides: 4
+Umfang: 97
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.7999999999999999
+Umfang weight: -4.399999999999998
+Bias: -0.1
+Number of sides: 3
+Umfang: 93
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.8999999999999999
+Umfang weight: 4.900000000000003
+Bias: 0.0
+Number of sides: 4
+Umfang: 78
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.8999999999999999
+Umfang weight: -2.8999999999999977
+Bias: -0.1
+Number of sides: 4
+Umfang: 80
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.8999999999999999
+Umfang weight: -2.8999999999999977
+Bias: -0.1
+Number of sides: 3
+Umfang: 33
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.9999999999999999
+Umfang weight: 0.4000000000000026
+Bias: 0.0
+Number of sides: 3
+Umfang: 95
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.9999999999999999
+Umfang weight: 0.4000000000000026
+Bias: 0.0
+Number of sides: 3
+Umfang: 72
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.9999999999999999
+Umfang weight: 0.4000000000000026
+Bias: 0.0
+Number of sides: 3
+Umfang: 87
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 0.9999999999999999
+Umfang weight: 0.4000000000000026
+Bias: 0.0
+Number of sides: 4
+Umfang: 86
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 0.9999999999999999
+Umfang weight: -8.199999999999998
+Bias: -0.1
+Number of sides: 3
+Umfang: 36
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 1.0999999999999999
+Umfang weight: -4.599999999999998
+Bias: 0.0
+Number of sides: 3
+Umfang: 38
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 1.2
+Umfang weight: -0.7999999999999976
+Bias: 0.1
+Number of sides: 4
+Umfang: 83
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 1.2
+Umfang weight: -0.7999999999999976
+Bias: 0.1
+Number of sides: 3
+Umfang: 63
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 1.3
+Umfang weight: 5.5000000000000036
+Bias: 0.2
+Number of sides: 3
+Umfang: 72
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 1.3
+Umfang weight: 5.5000000000000036
+Bias: 0.2
+Number of sides: 4
+Umfang: 30
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 1.3
+Umfang weight: 2.5000000000000036
+Bias: 0.1
+Number of sides: 4
+Umfang: 56
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 1.3
+Umfang weight: -3.099999999999997
+Bias: 0.0
+Number of sides: 4
+Umfang: 89
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 1.3
+Umfang weight: -3.099999999999997
+Bias: 0.0
+Number of sides: 4
+Umfang: 53
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 1.3
+Umfang weight: -3.099999999999997
+Bias: 0.0
+Number of sides: 3
+Umfang: 35
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 1.4000000000000001
+Umfang weight: 0.400000000000003
+Bias: 0.1
+Number of sides: 4
+Umfang: 40
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 1.4000000000000001
+Umfang weight: -3.599999999999997
+Bias: 0.0
+Number of sides: 4
+Umfang: 71
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 1.4000000000000001
+Umfang weight: -3.599999999999997
+Bias: 0.0
+Number of sides: 3
+Umfang: 38
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 1.5000000000000002
+Umfang weight: 0.2000000000000033
+Bias: 0.1
+Number of sides: 4
+Umfang: 43
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 1.5000000000000002
+Umfang weight: -4.099999999999996
+Bias: 0.0
+Number of sides: 3
+Umfang: 34
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 1.6000000000000003
+Umfang weight: -0.6999999999999957
+Bias: 0.1
+Number of sides: 3
+Umfang: 37
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 1.7000000000000004
+Umfang weight: 3.0000000000000044
+Bias: 0.2
+Number of sides: 3
+Umfang: 33
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 1.7000000000000004
+Umfang weight: 3.0000000000000044
+Bias: 0.2
+Number of sides: 4
+Umfang: 93
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 1.7000000000000004
+Umfang weight: -6.299999999999996
+Bias: 0.1
+Number of sides: 4
+Umfang: 49
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 1.7000000000000004
+Umfang weight: -6.299999999999996
+Bias: 0.1
+Number of sides: 3
+Umfang: 49
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 1.8000000000000005
+Umfang weight: -1.399999999999996
+Bias: 0.2
+Number of sides: 4
+Umfang: 78
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 1.8000000000000005
+Umfang weight: -1.399999999999996
+Bias: 0.2
+Number of sides: 3
+Umfang: 44
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 1.9000000000000006
+Umfang weight: 3.0000000000000044
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 98
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 1.9000000000000006
+Umfang weight: 3.0000000000000044
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 37
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 1.9000000000000006
+Umfang weight: -0.6999999999999957
+Bias: 0.20000000000000004
+Number of sides: 4
+Umfang: 93
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 1.9000000000000006
+Umfang weight: -0.6999999999999957
+Bias: 0.20000000000000004
+Number of sides: 3
+Umfang: 46
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 2.0000000000000004
+Umfang weight: 3.900000000000005
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 70
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 2.0000000000000004
+Umfang weight: 3.900000000000005
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 93
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 2.0000000000000004
+Umfang weight: -5.399999999999996
+Bias: 0.20000000000000004
+Number of sides: 4
+Umfang: 67
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 2.0000000000000004
+Umfang weight: -5.399999999999996
+Bias: 0.20000000000000004
+Number of sides: 3
+Umfang: 51
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 2.1000000000000005
+Umfang weight: -0.2999999999999954
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 66
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 2.1000000000000005
+Umfang weight: -0.2999999999999954
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 34
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 2.1000000000000005
+Umfang weight: -0.2999999999999954
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 99
+Its not a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 9.600000000000005
+Bias: 0.4
+Number of sides: 4
+Umfang: 96
+its a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 86
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 69
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 76
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 33
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 57
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 96
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 75
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 94
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 42
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 48
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 45
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 90
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 79
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 56
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 34
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 90
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 48
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 60
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 37
+its a triangle
+true input value:1
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 58
+Its not a triangle
+true input value:0
+iteration: 1
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 98
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 59
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 62
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 43
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 81
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 54
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 38
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 81
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 60
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 45
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 98
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 84
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 82
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 90
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 62
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 42
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 41
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 60
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 40
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 83
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 60
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 30
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 83
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 92
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 60
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 79
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 57
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 50
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 92
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 32
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 55
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 43
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 96
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 83
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 70
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 59
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 39
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 43
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 50
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 77
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 51
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 77
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 97
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 77
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 84
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 98
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 53
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 30
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 55
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 70
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 41
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 98
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 72
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 40
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 90
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 64
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 84
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 81
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 53
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 46
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 87
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 50
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 81
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 53
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 56
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 99
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 72
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 44
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 45
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 97
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 31
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 76
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 30
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 65
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 66
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 34
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 35
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 57
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 87
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 55
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 92
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 100
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 92
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 46
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 93
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 35
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 76
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 65
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 62
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 40
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 65
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 95
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 86
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 75
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 48
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 74
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 32
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 74
+its a triangle
+true input value:1
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 4
+Umfang: 60
+Its not a triangle
+true input value:0
+iteration: 2
+
+Current weights
+Sides: 2.2000000000000006
+Umfang weight: 3.552713678800501E-15
+Bias: 0.30000000000000004
+Number of sides: 3
+Umfang: 99
+its a triangle
+true input value:1
+iteration: 2
+
+Final Function
+2.2000000000000006x + 3.552713678800501E-15 + 0.30000000000000004
+Number of sides: 4
+Umfang: 35
+Its not a triangle
+true input value:0
+
+Number of sides: 3
+Umfang: 66
+its a triangle
+true input value:1
+
+Number of sides: 4
+Umfang: 91
+Its not a triangle
+true input value:0
+
+Number of sides: 4
+Umfang: 80
+Its not a triangle
+true input value:0
+
+Number of sides: 4
+Umfang: 78
+Its not a triangle
+true input value:0
+
+Number of sides: 3
+Umfang: 40
+its a triangle
+true input value:1
+
+Number of sides: 3
+Umfang: 33
+its a triangle
+true input value:1
+
+Number of sides: 3
+Umfang: 59
+its a triangle
+true input value:1
+
+Number of sides: 4
+Umfang: 35
+Its not a triangle
+true input value:0
+
+Number of sides: 4
+Umfang: 39
+Its not a triangle
+true input value:0
+
