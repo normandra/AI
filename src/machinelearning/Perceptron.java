@@ -79,7 +79,7 @@ public class Perceptron {
     		
     		
     	}
-    	}while (globalError != 0 && iteration <= max_iter && iteration != 0);
+    	}while (globalError != 0 && iteration <= max_iter);
     	
     	System.out.println("Final Function");
 		System.out.println(wSide+"x"+ " + " +wUmfang +" + "+ bias);
